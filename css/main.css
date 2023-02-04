@@ -37,6 +37,12 @@ li {
     width: 100%;
 }
 
+.portfolio-list {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
 @media screen and (min-width: 768px) {
 
     .about-block {
